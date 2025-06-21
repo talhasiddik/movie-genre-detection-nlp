@@ -67,10 +67,10 @@ If you use this code or methodology in your research, please cite this work:
 ```bibtex
 @misc{movie_genre_detection_2024,
   title={Movie Genre Detection from YouTube Trailers: A Multimodal Deep Learning Approach},
-  author={Project Author},
+  author={Talha Siddique},
   year={2024},
   publisher={GitHub},
-  url={https://github.com/your-username/movie-genre-detection-nlp}
+  url={https://github.com/talhasiddik/movie-genre-detection-nlp}
 }
 ```
 
