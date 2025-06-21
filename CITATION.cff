@@ -4,8 +4,8 @@ type: software
 title: "Movie Genre Detection from YouTube Trailers"
 version: 1.0.0
 date-released: 2024-12-19
-url: "https://github.com/your-username/movie-genre-detection-nlp"
-repository-code: "https://github.com/your-username/movie-genre-detection-nlp"
+url: "https://github.com/talhasiddik/movie-genre-detection-nlp"
+repository-code: "https://github.com/talhasiddik/movie-genre-detection-nlp"
 abstract: "A multimodal deep learning approach for movie genre detection using YouTube trailers. The system combines visual frame analysis and audio transcription processing to classify movies into multiple genres using the MovieLens dataset taxonomy."
 keywords:
   - machine learning
@@ -17,18 +17,16 @@ keywords:
   - video analysis
 license: MIT
 authors:
-  - family-names: "Author"
-    given-names: "Project"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    email: "author@email.com"
+  - family-names: "Siddique"
+    given-names: "Talha"
+    email: "talha@email.com"
 preferred-citation:
   type: article
   title: "Movie Genre Detection from YouTube Trailers: A Multimodal Deep Learning Approach"
   authors:
-    - family-names: "Author"
-      given-names: "Project"
-      orcid: "https://orcid.org/0000-0000-0000-0000"
-      email: "author@email.com"
+    - family-names: "Siddique"
+      given-names: "Talha"
+      email: "talha@email.com"
   journal: "arXiv preprint"
   year: 2024
   abstract: "This paper presents a comprehensive approach to movie genre detection using YouTube trailers as input. We develop a multimodal deep learning framework that combines visual features from video frames and textual features from audio transcription to classify movies into multiple genres. Our methodology includes dataset preparation using the MovieLens 20M dataset, feature extraction from both visual and audio modalities, and a neural network architecture designed for multi-label classification. The experimental design addresses challenges in large-scale dataset labeling, class imbalance, and evaluation metrics appropriate for multi-label problems."
