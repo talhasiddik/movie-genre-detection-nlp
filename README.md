@@ -16,6 +16,8 @@ This project demonstrates how to:
 - `movie_genre_detection.ipynb`: Jupyter notebook containing the full implementation
 - `experimental_design.md`: Detailed description of the experimental approach
 - `requirements.txt`: Python dependencies for the project
+- `LICENSE`: MIT License file
+- `CITATION.cff`: Citation file in Citation File Format for easy referencing
 
 ## Getting Started
 
@@ -58,7 +60,25 @@ jupyter notebook movie_genre_detection.ipynb
 - MovieLens 20M dataset: https://grouplens.org/datasets/movielens/20m/
 - YouTube trailers linked to the MovieLens IDs
 
+## Citation
+
+If you use this code or methodology in your research, please cite this work:
+
+```bibtex
+@misc{movie_genre_detection_2024,
+  title={Movie Genre Detection from YouTube Trailers: A Multimodal Deep Learning Approach},
+  author={Project Author},
+  year={2024},
+  publisher={GitHub},
+  url={https://github.com/your-username/movie-genre-detection-nlp}
+}
+```
+
+You can also use the `CITATION.cff` file in this repository, which follows the Citation File Format standard and can be automatically processed by GitHub and other platforms.
+
 ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 This project is intended for educational and research purposes.
 
@@ -66,3 +86,4 @@ This project is intended for educational and research purposes.
 
 - MovieLens dataset from GroupLens Research
 - The project design is informed by research in multimodal deep learning and video understanding
+- Special thanks to the open-source community for the tools and libraries used in this project
